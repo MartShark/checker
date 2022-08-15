@@ -19,7 +19,9 @@ namespace github
 
         private void button1_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Ku Hua hai");
             Application.Exit();
+            
         }
     }
 }
